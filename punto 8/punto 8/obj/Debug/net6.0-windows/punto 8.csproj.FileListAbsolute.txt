@@ -1,0 +1,18 @@
+C:\Users\Axel\source\repos\punto 8\punto 8\bin\Debug\net6.0-windows\punto 8.exe
+C:\Users\Axel\source\repos\punto 8\punto 8\bin\Debug\net6.0-windows\punto 8.deps.json
+C:\Users\Axel\source\repos\punto 8\punto 8\bin\Debug\net6.0-windows\punto 8.runtimeconfig.json
+C:\Users\Axel\source\repos\punto 8\punto 8\bin\Debug\net6.0-windows\punto 8.dll
+C:\Users\Axel\source\repos\punto 8\punto 8\bin\Debug\net6.0-windows\punto 8.pdb
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.csproj.AssemblyReference.cache
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.csproj.GenerateResource.cache
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.AssemblyInfoInputs.cache
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.AssemblyInfo.cs
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.dll
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\refint\punto 8.dll
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.pdb
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto 8.genruntimeconfig.cache
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\ref\punto 8.dll
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto_8.fIntercambioNumeros.resources
+C:\Users\Axel\source\repos\punto 8\punto 8\obj\Debug\net6.0-windows\punto_8.Properties.Resources.resources
